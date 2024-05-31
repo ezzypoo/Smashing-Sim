@@ -1,2 +1,2 @@
 # Smashing-Sim
-This is a game made by @tysnmays on scratch. Follow him.
+This game was made by @[tysonmays](url="scratch.mit.edu/users/tysonmays") on Scratch. Follow him.
